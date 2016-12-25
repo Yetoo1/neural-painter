@@ -58,6 +58,10 @@ See https://github.com/zxytim/neural-painter/blob/master/neural_painter.py for i
 - opencv
 - numpy
 - scipy
+- python development package (either) 
+	- python-dev
+	- python-devel
+	- or something completely different
 
 # Try it on your own
 ```bash
