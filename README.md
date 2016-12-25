@@ -54,10 +54,10 @@ NONLIN_TABLE = dict(
 See https://github.com/zxytim/neural-painter/blob/master/neural_painter.py for implementation. The code is based on theano.
 
 # Dependencies
-theano
-opencv
-numpy
-scipy
+- theano
+- opencv
+- numpy
+- scipy
 
 # Try it on your own
 ```bash
